@@ -119,3 +119,6 @@ Each update represents a small step forward.
 ## Update 39
 - Looked into common phishing patterns targeting L2 users
 - Added habit to bookmark official resources
+## Update 40
+- Summarized security takeaways so far
+- Focus: small amounts, verified links, clear confirmations

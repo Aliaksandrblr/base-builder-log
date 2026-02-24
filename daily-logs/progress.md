@@ -68,3 +68,6 @@ Each update represents a small step forward.
 ## Update 22
 - Looked into Base testnet vs mainnet differences
 - Noted when and why to use each environment
+## Update 23
+- Drafted a simple checklist for switching networks safely
+- Added reminder to double-check chain IDs

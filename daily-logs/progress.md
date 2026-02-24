@@ -65,3 +65,6 @@ Each update represents a small step forward.
 ## Update 21
 - Reviewed common L2 UX patterns for onboarding new users
 - Noted importance of clear network indicators in wallets
+## Update 22
+- Looked into Base testnet vs mainnet differences
+- Noted when and why to use each environment

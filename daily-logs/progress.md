@@ -101,3 +101,6 @@ Each update represents a small step forward.
 ## Update 33
 - Drafted a plan for a minimal “hello” contract example
 - Goal: deploy, verify, and test basic interactions
+## Update 34
+- Looked into contract verification UX on explorers
+- Noted why verified source builds trust

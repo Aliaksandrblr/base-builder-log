@@ -92,3 +92,6 @@ Each update represents a small step forward.
 ## Update 30
 - Summarized first half of progress updates
 - Identified remaining gaps to cover hands-on building
+## Update 31
+- Looked into common Solidity starter patterns
+- Focused on storage, setters, getters, and events

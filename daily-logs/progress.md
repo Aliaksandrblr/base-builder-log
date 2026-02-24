@@ -50,3 +50,6 @@ Each update represents a small step forward.
 ## Update 16
 - Reviewed basic Solidity contract patterns I want to practice next
 - Focus: counter, storage, events, simple access control
+## Update 17
+- Noted that Base being EVM-compatible keeps the dev stack familiar
+- Next: choose a template project and reuse it consistently

@@ -56,3 +56,6 @@ Each update represents a small step forward.
 ## Update 18
 - Drafted a short “definition list” for beginners (L1, L2, rollup, bridge)
 - Goal: make notes understandable to non-experts
+## Update 19
+- Wrote down a plan to add a mini-experiments folder next
+- Keep experiments small: one file, one idea, one test

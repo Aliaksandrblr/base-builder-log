@@ -71,3 +71,6 @@ Each update represents a small step forward.
 ## Update 23
 - Drafted a simple checklist for switching networks safely
 - Added reminder to double-check chain IDs
+## Update 24
+- Reviewed how events and logs help debug contracts
+- Noted which events are most useful to emit

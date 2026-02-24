@@ -116,3 +116,6 @@ Each update represents a small step forward.
 ## Update 38
 - Drafted a short glossary for L2-related terms
 - Goal: keep notes understandable for beginners
+## Update 39
+- Looked into common phishing patterns targeting L2 users
+- Added habit to bookmark official resources

@@ -26,3 +26,6 @@ Each update represents a small step forward.
   ## Update 08
 - Started a simple “first deployment” mental checklist
 - Noted what info I should save after deploying (address, tx link, tests)
+## Update 09
+- Drafted a tiny mini-project idea to learn faster than reading only
+- Wrote down required components: wallet, RPC, explorer, contract template

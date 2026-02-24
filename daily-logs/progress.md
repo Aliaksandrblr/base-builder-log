@@ -53,3 +53,6 @@ Each update represents a small step forward.
 ## Update 17
 - Noted that Base being EVM-compatible keeps the dev stack familiar
 - Next: choose a template project and reuse it consistently
+## Update 18
+- Drafted a short “definition list” for beginners (L1, L2, rollup, bridge)
+- Goal: make notes understandable to non-experts

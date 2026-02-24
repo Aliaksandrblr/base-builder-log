@@ -77,3 +77,6 @@ Each update represents a small step forward.
 ## Update 25
 - Summarized best practices for saving tx links and addresses
 - Added habit of documenting small decisions
+## Update 26
+- Looked into typical gas estimation issues on L2s
+- Noted why simulations can differ from final execution

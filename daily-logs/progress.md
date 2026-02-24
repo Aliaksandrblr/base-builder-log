@@ -11,3 +11,6 @@ Each update represents a small step forward.
 ## Update 03
 - Checked bridging basics between L1 and Base
 - Listed common mistakes users make when switching networks
+## Update 04
+- Reviewed the role of an RPC endpoint for reading/writing onchain data
+- Noted what makes an RPC “reliable” for development

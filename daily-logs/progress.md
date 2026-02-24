@@ -83,3 +83,6 @@ Each update represents a small step forward.
 ## Update 27
 - Reviewed wallet approval flows and risks
 - Added note to regularly revoke unused approvals
+## Update 28
+- Drafted a simple error-handling checklist for dApps
+- Focused on readable error messages for users

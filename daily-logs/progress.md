@@ -80,3 +80,6 @@ Each update represents a small step forward.
 ## Update 26
 - Looked into typical gas estimation issues on L2s
 - Noted why simulations can differ from final execution
+## Update 27
+- Reviewed wallet approval flows and risks
+- Added note to regularly revoke unused approvals

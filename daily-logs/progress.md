@@ -107,3 +107,6 @@ Each update represents a small step forward.
 ## Update 35
 - Reviewed typical mistakes in first contract deployments
 - Added reminder to test with smallest possible scope
+## Update 36
+- Looked into how L2s post data back to Ethereum
+- Noted tradeoffs between cost and security assumptions

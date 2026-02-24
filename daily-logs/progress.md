@@ -29,3 +29,6 @@ Each update represents a small step forward.
 ## Update 09
 - Drafted a tiny mini-project idea to learn faster than reading only
 - Wrote down required components: wallet, RPC, explorer, contract template
+## Update 10
+- Summarized the first set of learning notes into short bullet points
+- Next focus: hands-on experiments and small Solidity examples

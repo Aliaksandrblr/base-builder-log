@@ -17,3 +17,6 @@ Each update represents a small step forward.
 ## Update 05
 - Explored how explorers help debug transactions and contracts
 - Added a short checklist for verifying I’m on the right network
+## Update 06
+- Summarized how L2 fees can include execution + L1 data posting
+- Wrote a note to always compare total cost, not just gas price

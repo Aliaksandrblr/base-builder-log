@@ -74,3 +74,6 @@ Each update represents a small step forward.
 ## Update 24
 - Reviewed how events and logs help debug contracts
 - Noted which events are most useful to emit
+## Update 25
+- Summarized best practices for saving tx links and addresses
+- Added habit of documenting small decisions

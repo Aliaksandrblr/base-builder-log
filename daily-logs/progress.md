@@ -113,3 +113,6 @@ Each update represents a small step forward.
 ## Update 37
 - Reviewed finality concepts on L2s
 - Noted how user expectations differ from mainnet
+## Update 38
+- Drafted a short glossary for L2-related terms
+- Goal: keep notes understandable for beginners

@@ -35,3 +35,6 @@ Each update represents a small step forward.
 ## Update 11
 - Noted why consistent public commits matter for builder programs
 - Kept updates small and structured to avoid “spam-looking” history
+## Update 12
+- Reviewed common wallet security practices (approvals, phishing, bookmarks)
+- Added a reminder to test with small amounts first

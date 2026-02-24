@@ -47,3 +47,6 @@ Each update represents a small step forward.
 ## Update 15
 - Drafted a “things to track” list: addresses, tx links, errors, fixes
 - Noted that logs help debugging later
+## Update 16
+- Reviewed basic Solidity contract patterns I want to practice next
+- Focus: counter, storage, events, simple access control

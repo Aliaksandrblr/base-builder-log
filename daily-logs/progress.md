@@ -95,3 +95,6 @@ Each update represents a small step forward.
 ## Update 31
 - Looked into common Solidity starter patterns
 - Focused on storage, setters, getters, and events
+## Update 32
+- Reviewed simple access control patterns (owner-only)
+- Noted risks of overcomplicating permissions early

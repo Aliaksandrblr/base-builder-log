@@ -38,3 +38,6 @@ Each update represents a small step forward.
 ## Update 12
 - Reviewed common wallet security practices (approvals, phishing, bookmarks)
 - Added a reminder to test with small amounts first
+## Update 13
+- Wrote a short note about contract verification as a trust signal
+- Noted that readable documentation improves adoption

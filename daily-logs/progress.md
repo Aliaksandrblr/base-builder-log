@@ -23,4 +23,6 @@ Each update represents a small step forward.
 ## Update 07
 - Identified “UX friction points” for new L2 users
 - Noted that clear network prompts reduce support issues
-- 
+  ## Update 08
+- Started a simple “first deployment” mental checklist
+- Noted what info I should save after deploying (address, tx link, tests)

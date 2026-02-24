@@ -41,3 +41,6 @@ Each update represents a small step forward.
 ## Update 13
 - Wrote a short note about contract verification as a trust signal
 - Noted that readable documentation improves adoption
+## Update 14
+- Looked into typical L2 onboarding flows (bridge, faucet, first tx)
+- Noted where users usually get stuck and how to guide them

@@ -86,3 +86,6 @@ Each update represents a small step forward.
 ## Update 28
 - Drafted a simple error-handling checklist for dApps
 - Focused on readable error messages for users
+## Update 29
+- Reviewed how explorers display internal transactions
+- Noted differences vs mainnet explorers

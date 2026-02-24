@@ -32,3 +32,6 @@ Each update represents a small step forward.
 ## Update 10
 - Summarized the first set of learning notes into short bullet points
 - Next focus: hands-on experiments and small Solidity examples
+## Update 11
+- Noted why consistent public commits matter for builder programs
+- Kept updates small and structured to avoid “spam-looking” history

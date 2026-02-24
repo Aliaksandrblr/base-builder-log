@@ -104,3 +104,6 @@ Each update represents a small step forward.
 ## Update 34
 - Looked into contract verification UX on explorers
 - Noted why verified source builds trust
+## Update 35
+- Reviewed typical mistakes in first contract deployments
+- Added reminder to test with smallest possible scope

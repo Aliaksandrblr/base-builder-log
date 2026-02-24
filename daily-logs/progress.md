@@ -44,3 +44,6 @@ Each update represents a small step forward.
 ## Update 14
 - Looked into typical L2 onboarding flows (bridge, faucet, first tx)
 - Noted where users usually get stuck and how to guide them
+## Update 15
+- Drafted a “things to track” list: addresses, tx links, errors, fixes
+- Noted that logs help debugging later

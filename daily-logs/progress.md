@@ -20,3 +20,7 @@ Each update represents a small step forward.
 ## Update 06
 - Summarized how L2 fees can include execution + L1 data posting
 - Wrote a note to always compare total cost, not just gas price
+## Update 07
+- Identified “UX friction points” for new L2 users
+- Noted that clear network prompts reduce support issues
+- 

@@ -98,3 +98,6 @@ Each update represents a small step forward.
 ## Update 32
 - Reviewed simple access control patterns (owner-only)
 - Noted risks of overcomplicating permissions early
+## Update 33
+- Drafted a plan for a minimal “hello” contract example
+- Goal: deploy, verify, and test basic interactions

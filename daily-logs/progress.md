@@ -62,3 +62,6 @@ Each update represents a small step forward.
 ## Update 20
 - Summarized key takeaways: lower fees, better UX, Ethereum settlement
 - Next: add 1–2 simple contract examples to the repo
+## Update 21
+- Reviewed common L2 UX patterns for onboarding new users
+- Noted importance of clear network indicators in wallets

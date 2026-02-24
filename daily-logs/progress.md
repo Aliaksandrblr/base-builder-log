@@ -89,3 +89,6 @@ Each update represents a small step forward.
 ## Update 29
 - Reviewed how explorers display internal transactions
 - Noted differences vs mainnet explorers
+## Update 30
+- Summarized first half of progress updates
+- Identified remaining gaps to cover hands-on building

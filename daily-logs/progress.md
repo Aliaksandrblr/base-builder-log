@@ -110,3 +110,6 @@ Each update represents a small step forward.
 ## Update 36
 - Looked into how L2s post data back to Ethereum
 - Noted tradeoffs between cost and security assumptions
+## Update 37
+- Reviewed finality concepts on L2s
+- Noted how user expectations differ from mainnet

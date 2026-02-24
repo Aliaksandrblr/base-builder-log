@@ -14,3 +14,6 @@ Each update represents a small step forward.
 ## Update 04
 - Reviewed the role of an RPC endpoint for reading/writing onchain data
 - Noted what makes an RPC “reliable” for development
+## Update 05
+- Explored how explorers help debug transactions and contracts
+- Added a short checklist for verifying I’m on the right network

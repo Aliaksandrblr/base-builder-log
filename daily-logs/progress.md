@@ -131,3 +131,6 @@ Each update represents a small step forward.
 ## Update 43
 - Looked into wallet connection flows
 - Noted where users often get confused
+## Update 44
+- Reviewed basic testing strategies for smart contracts
+- Added reminder to test both success and failure cases

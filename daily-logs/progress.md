@@ -224,3 +224,6 @@ Each update represents a small step forward.
 ## Update 74
 - Drafted a habit of writing short post-mortems
 - Even for small mistakes
+## Update 75
+- Reviewed how Base fits into the broader Ethereum ecosystem
+- L2s as scaling layers, not replacements

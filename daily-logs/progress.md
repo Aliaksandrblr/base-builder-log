@@ -272,3 +272,6 @@ Each update represents a small step forward.
 ## Update 90
 - Reached another consistency checkpoint
 - Continued focusing on repeatable habits
+## Update 91
+- Reviewed how Base supports consumer-scale apps
+- Low fees enable experimentation

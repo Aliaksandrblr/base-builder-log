@@ -140,3 +140,6 @@ Each update represents a small step forward.
 ## Update 46
 - Reviewed typical L2 support questions from users
 - Added note to document FAQs early
+## Update 47
+- Drafted a simple structure for future mini-experiments
+- One idea per folder, one goal per experiment

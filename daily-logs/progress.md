@@ -260,3 +260,6 @@ Each update represents a small step forward.
 ## Update 86
 - Reviewed basic contract interaction patterns from frontends
 - Read vs write separation
+## Update 87
+- Drafted a short checklist for publishing demos
+- Links, screenshots, clear instructions

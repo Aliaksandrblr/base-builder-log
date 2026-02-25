@@ -263,3 +263,6 @@ Each update represents a small step forward.
 ## Update 87
 - Drafted a short checklist for publishing demos
 - Links, screenshots, clear instructions
+## Update 88
+- Looked into typical reasons users abandon transactions
+- Focused on unclear costs and errors

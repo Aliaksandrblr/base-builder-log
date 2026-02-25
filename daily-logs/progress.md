@@ -242,3 +242,6 @@ Each update represents a small step forward.
 ## Update 80
 - Summarized second half of progress updates
 - Ready to focus on concrete experiments
+## Update 81
+- Reviewed common L2 misconceptions among users
+- Added notes on how to explain them simply

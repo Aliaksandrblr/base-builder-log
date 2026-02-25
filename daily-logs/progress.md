@@ -194,3 +194,6 @@ Each update represents a small step forward.
 ## Update 64
 - Drafted a simple checklist for debugging failed transactions
 - Focused on logs and revert reasons
+## Update 65
+- Reviewed common UI mistakes in early dApps
+- Clear copy reduces user errors

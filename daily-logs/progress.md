@@ -254,3 +254,6 @@ Each update represents a small step forward.
 ## Update 84
 - Reviewed how approvals accumulate risk over time
 - Added reminder to audit approvals periodically
+## Update 85
+- Looked into onboarding flows for non-crypto users
+- Reduce assumptions as much as possible

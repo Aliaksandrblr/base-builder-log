@@ -212,3 +212,6 @@ Each update represents a small step forward.
 ## Update 70
 - Reached another consistency milestone
 - Continued focusing on small, repeatable progress
+## Update 71
+- Reviewed transaction confirmation UX patterns
+- Noted when to wait for 1 vs multiple confirmations

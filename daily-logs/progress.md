@@ -170,3 +170,6 @@ Each update represents a small step forward.
 ## Update 56
 - Reviewed contract upgrade considerations at a high level
 - Noted why immutability matters
+## Update 57
+- Drafted a simple post-deploy checklist
+- Save addresses, verify source, test interactions

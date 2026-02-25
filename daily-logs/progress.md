@@ -158,3 +158,6 @@ Each update represents a small step forward.
 ## Update 52
 - Looked into indexing and reading onchain data
 - Noted when direct RPC calls are enough
+## Update 53
+- Drafted a plan to keep experiments small and reversible
+- Avoid locking into early decisions

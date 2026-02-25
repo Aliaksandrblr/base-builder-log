@@ -155,3 +155,6 @@ Each update represents a small step forward.
 ## Update 51
 - Reviewed common dApp architecture patterns
 - Frontend, contracts, indexer, explorer
+## Update 52
+- Looked into indexing and reading onchain data
+- Noted when direct RPC calls are enough

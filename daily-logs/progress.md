@@ -134,3 +134,6 @@ Each update represents a small step forward.
 ## Update 44
 - Reviewed basic testing strategies for smart contracts
 - Added reminder to test both success and failure cases
+## Update 45
+- Looked into deployment scripts vs manual deploys
+- Noted when automation becomes useful

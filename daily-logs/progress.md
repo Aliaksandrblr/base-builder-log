@@ -128,3 +128,6 @@ Each update represents a small step forward.
 ## Update 42
 - Drafted ideas for simple consumer-focused onchain apps
 - Focused on UX over complexity
+## Update 43
+- Looked into wallet connection flows
+- Noted where users often get confused

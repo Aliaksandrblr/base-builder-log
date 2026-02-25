@@ -167,3 +167,6 @@ Each update represents a small step forward.
 ## Update 55
 - Looked into UX improvements for transaction confirmations
 - Clear copy reduces failed transactions
+## Update 56
+- Reviewed contract upgrade considerations at a high level
+- Noted why immutability matters

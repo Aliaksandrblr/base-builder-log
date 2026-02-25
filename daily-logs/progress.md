@@ -173,3 +173,6 @@ Each update represents a small step forward.
 ## Update 57
 - Drafted a simple post-deploy checklist
 - Save addresses, verify source, test interactions
+## Update 58
+- Looked into wallet network switching UX
+- Added reminder to guide users explicitly

@@ -230,3 +230,6 @@ Each update represents a small step forward.
 ## Update 76
 - Looked into how explorers show contract interactions
 - Noted differences between read and write calls
+## Update 77
+- Reviewed wallet network switching edge cases
+- Added reminder to always confirm active network

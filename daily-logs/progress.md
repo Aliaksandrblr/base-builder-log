@@ -122,3 +122,6 @@ Each update represents a small step forward.
 ## Update 40
 - Summarized security takeaways so far
 - Focus: small amounts, verified links, clear confirmations
+## Update 41
+- Reviewed common Base ecosystem app categories
+- Noted which ones benefit most from low fees

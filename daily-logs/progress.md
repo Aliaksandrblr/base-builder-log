@@ -215,3 +215,6 @@ Each update represents a small step forward.
 ## Update 71
 - Reviewed transaction confirmation UX patterns
 - Noted when to wait for 1 vs multiple confirmations
+## Update 72
+- Looked into wallet signature request wording
+- Clear descriptions reduce rejected signatures

@@ -266,3 +266,6 @@ Each update represents a small step forward.
 ## Update 88
 - Looked into typical reasons users abandon transactions
 - Focused on unclear costs and errors
+## Update 89
+- Reviewed importance of clear success states in UI
+- Confirmation builds trust

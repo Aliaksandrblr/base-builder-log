@@ -152,3 +152,6 @@ Each update represents a small step forward.
 ## Update 50
 - Reached a milestone of consistent progress updates
 - Next focus: hands-on contract examples
+## Update 51
+- Reviewed common dApp architecture patterns
+- Frontend, contracts, indexer, explorer

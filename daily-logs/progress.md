@@ -191,3 +191,6 @@ Each update represents a small step forward.
 ## Update 63
 - Reviewed how wallets handle transaction simulation
 - Noted why simulations sometimes fail
+## Update 64
+- Drafted a simple checklist for debugging failed transactions
+- Focused on logs and revert reasons

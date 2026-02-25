@@ -245,3 +245,6 @@ Each update represents a small step forward.
 ## Update 81
 - Reviewed common L2 misconceptions among users
 - Added notes on how to explain them simply
+## Update 82
+- Looked into basic gas optimization intuition
+- Avoid unnecessary storage writes

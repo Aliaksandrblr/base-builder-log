@@ -257,3 +257,6 @@ Each update represents a small step forward.
 ## Update 85
 - Looked into onboarding flows for non-crypto users
 - Reduce assumptions as much as possible
+## Update 86
+- Reviewed basic contract interaction patterns from frontends
+- Read vs write separation

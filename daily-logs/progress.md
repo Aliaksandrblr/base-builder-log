@@ -137,3 +137,6 @@ Each update represents a small step forward.
 ## Update 45
 - Looked into deployment scripts vs manual deploys
 - Noted when automation becomes useful
+## Update 46
+- Reviewed typical L2 support questions from users
+- Added note to document FAQs early

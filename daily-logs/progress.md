@@ -203,3 +203,6 @@ Each update represents a small step forward.
 ## Update 67
 - Reviewed simple contract storage patterns
 - Focused on minimizing state changes
+## Update 68
+- Looked into event naming best practices
+- Clear events simplify indexing and debugging

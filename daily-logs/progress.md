@@ -125,3 +125,6 @@ Each update represents a small step forward.
 ## Update 41
 - Reviewed common Base ecosystem app categories
 - Noted which ones benefit most from low fees
+## Update 42
+- Drafted ideas for simple consumer-focused onchain apps
+- Focused on UX over complexity

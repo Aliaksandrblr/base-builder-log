@@ -185,3 +185,6 @@ Each update represents a small step forward.
 ## Update 61
 - Reviewed differences between testnet and mainnet deployment flows
 - Noted when each environment is appropriate
+## Update 62
+- Looked into common RPC rate limit issues
+- Added reminder to have a fallback RPC

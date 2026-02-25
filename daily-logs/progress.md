@@ -188,3 +188,6 @@ Each update represents a small step forward.
 ## Update 62
 - Looked into common RPC rate limit issues
 - Added reminder to have a fallback RPC
+## Update 63
+- Reviewed how wallets handle transaction simulation
+- Noted why simulations sometimes fail

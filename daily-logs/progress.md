@@ -239,3 +239,6 @@ Each update represents a small step forward.
 ## Update 79
 - Looked into how public repos act as learning portfolios
 - Consistency signals long-term interest
+## Update 80
+- Summarized second half of progress updates
+- Ready to focus on concrete experiments

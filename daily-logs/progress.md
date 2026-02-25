@@ -218,3 +218,6 @@ Each update represents a small step forward.
 ## Update 72
 - Looked into wallet signature request wording
 - Clear descriptions reduce rejected signatures
+## Update 73
+- Reviewed typical beginner Solidity pitfalls
+- Focused on visibility and initialization issues

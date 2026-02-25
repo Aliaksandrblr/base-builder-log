@@ -221,3 +221,6 @@ Each update represents a small step forward.
 ## Update 73
 - Reviewed typical beginner Solidity pitfalls
 - Focused on visibility and initialization issues
+## Update 74
+- Drafted a habit of writing short post-mortems
+- Even for small mistakes

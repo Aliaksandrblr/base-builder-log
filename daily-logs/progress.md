@@ -233,3 +233,6 @@ Each update represents a small step forward.
 ## Update 77
 - Reviewed wallet network switching edge cases
 - Added reminder to always confirm active network
+## Update 78
+- Drafted a minimal testing checklist for contracts
+- Focused on core functionality only

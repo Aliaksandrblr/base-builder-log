@@ -206,3 +206,6 @@ Each update represents a small step forward.
 ## Update 68
 - Looked into event naming best practices
 - Clear events simplify indexing and debugging
+## Update 69
+- Drafted a minimal README template for experiments
+- Keep scope and usage clear

@@ -248,3 +248,6 @@ Each update represents a small step forward.
 ## Update 82
 - Looked into basic gas optimization intuition
 - Avoid unnecessary storage writes
+## Update 83
+- Drafted a simple versioning habit for experiments
+- Small increments over big jumps

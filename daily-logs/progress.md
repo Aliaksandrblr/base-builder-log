@@ -182,3 +182,6 @@ Each update represents a small step forward.
 ## Update 60
 - Completed a large batch of progress updates
 - Ready to move into concrete mini-experiments
+## Update 61
+- Reviewed differences between testnet and mainnet deployment flows
+- Noted when each environment is appropriate

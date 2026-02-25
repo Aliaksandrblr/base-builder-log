@@ -227,3 +227,6 @@ Each update represents a small step forward.
 ## Update 75
 - Reviewed how Base fits into the broader Ethereum ecosystem
 - L2s as scaling layers, not replacements
+## Update 76
+- Looked into how explorers show contract interactions
+- Noted differences between read and write calls
